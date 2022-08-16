@@ -8,7 +8,6 @@ import (
 	"sync"
 	"errors"
 	"time"
-	"fmt"
 )
 
 const (
